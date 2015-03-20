@@ -15,7 +15,7 @@
 
 - (void)dealloc {
     [webView release];
-    [super dealloc];
+    [super dealloc]; 
 }
 
 - (void)viewDidLoad {
